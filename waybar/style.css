@@ -1,7 +1,7 @@
 * {
     border: none;
     border-radius: 0;
-    font-family: Cartograph CF Nerd Font, monospace;
+    font-family: FantasqueSansMono Nerd Font, monospace;
     font-weight: bold;
     font-size: 14px;
     min-height: 0;
@@ -53,6 +53,8 @@ tooltip {
 #custom-caffeine,
 #custom-weather,
 #window,
+#cpu,
+#memory,
 #clock,
 #battery,
 #pulseaudio,
@@ -112,6 +114,18 @@ tooltip {
     margin-left: 5px;
     border-right: 0px;
 }
+
+#cpu {
+    color: #fab387;
+    margin-left: 0px;
+    
+}
+
+#memory {
+    color: #fab387;
+    border-radius: 0px 10px 10px 0px;
+}
+
 
 #network {
     color: #f9e2af;
