@@ -1,6 +1,6 @@
 # abhalala/.config
 
-> # **DISCLAIMER**: Highly unstable config files **USE AT YOUT OWN DISCRETION**
+> # **DISCLAIMER**: Highly unstable config files **USE AT YOUR OWN DISCRETION**
 
 - **Window Manager** - [Hyprland](https://github.com/hyprwm/Hyprland)
 - **Shell** - [Fish](https://fishshell.com/) with [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish)
