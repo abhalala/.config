@@ -15,12 +15,12 @@
 
 ### Display Manager
 ```bash
-paru -S sddm-catppuccin-git sddm-config-editor-git
+paru -S sddm sddm-catppuccin-git sddm-config-editor-git
 ```
 
 ### Core
 ```bash
-paru -S hyprland-git xfce-polkit dunst wofi wofi-emoji-git wl-clipboard wf-recorder wlogout grimblast-git hyprpicker-git hyprpaper-git xdg-desktop-portal-hyprland-git ffmpegthumbnailer tumbler wtypecolord imagemagick swaylock-effects qt5-wayland qt6-wayland waybar-hyprland-git pamixer pipewire
+paru -S hyprland-git xfce-polkit dunst wofi wofi-emoji-git wl-clipboard wf-recorder wlogout grimblast-git hyprpicker-git hyprpaper-git xdg-desktop-portal-hyprland-git ffmpegthumbnailer tumbler wtype colord imagemagick swaylock-effects qt5-wayland qt6-wayland waybar-hyprland-git pamixer pipewire
 ```
 
 ### Audio
